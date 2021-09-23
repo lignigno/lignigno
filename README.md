@@ -1,1 +1,1 @@
-![lignigno's stats](https://badge42.herokuapp.com/api/stats/lignigno)
+<center>![lignigno's stats](https://badge42.herokuapp.com/api/stats/lignigno)</center>
